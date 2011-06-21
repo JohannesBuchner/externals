@@ -1,0 +1,7 @@
+both a dependency converter and a tutorial on how to convert non-maven projects
+to maven.
+  A writeup can be found at
+http://johannes.jakeapp.com/blog/?p=1214 or http://johannes.jakeapp.com/blog/category/happy-hacking/201106/convert-java-projects-to-maven-without-breaking-upstream
+  And 
+http://johannes.jakeapp.com/blog/?p=1215 or http://johannes.jakeapp.com/blog/category/happy-hacking/201106/convert-ant-projects-to-maven-without-breaking-upstream
+
